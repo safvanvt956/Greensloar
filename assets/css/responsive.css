@@ -469,7 +469,7 @@
         background: rgba(12, 12, 11, 0.7);
     }
     .slider-heading {
-        font-size: 84px;
+        font-size: 74px;
         line-height: 1.3;
     }
     .swiper .swiper-wrapper .swiper-button-prev,
@@ -706,7 +706,7 @@
     /************* Slider Responsive CSS *************/
     .slider-heading {
         margin-top: 60px;
-        font-size: 52px;
+        font-size: 46px;
         line-height: 1.3;
     }
     .hero-area2 .hero-content .sec-content h3.sec-title {
