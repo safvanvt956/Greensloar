@@ -277,7 +277,7 @@
   font-size: 30px;
   cursor: pointer;
   line-height: 1;
-  color: var(--thm-primary);
+  color: #287501;
   display: none;
   padding: 29px 0 30px;
   margin: 0 20px;
@@ -564,7 +564,7 @@
 }
 
 .navbar-wrap ul li .sub-menu li a:hover {
-  color: var(--thm-orange);
+  color: #287501;
   background: #1f212d;
 }
 
