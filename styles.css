@@ -2975,7 +2975,7 @@ svg:hover #lineTwo {
 }
 .footer-widget .footer-widget-content .footer-social-icon a:hover {
   background: var(--thm-white);
-  color: var(--thm-orange);
+  color: #287501;
 }
 .footer-widget .footer-widget-content .footer-social-icon a:last-child {
   margin-right: 0;
@@ -2989,7 +2989,7 @@ svg:hover #lineTwo {
   transition: all 0.2s linear;
 }
 .footer-widget .footer-widget-content .footer-links ul li a:hover {
-  color: var(--thm-orange);
+  color: #287501;
 }
 .footer-widget .footer-widget-content .footer-links ul li:last-child {
   margin-bottom: 0;
