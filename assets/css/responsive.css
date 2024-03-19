@@ -1180,3 +1180,37 @@
         height: 300px;
     }
 }
+
+
+@media (max-width: 968px){
+.slider-heading {
+    font-size: 60px;
+    }
+}
+
+
+@media (max-width: 1337px){
+    .slider-heading {
+        font-size: 60px;
+    }
+}
+
+@media (max-width: 968px){
+    .slider-heading {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 415px){
+    .footer-sec .section-overlay {
+        padding: 190px 0 30px;
+    }
+
+    .why-choose{
+        margin-top: -50px;     
+    }
+    .bg-deep-cho{
+        padding-bottom: 65px;
+        margin-top: -46px;
+    }
+}
